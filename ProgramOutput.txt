@@ -52,6 +52,19 @@ anusuya123@mail.com
 Employee [empId=101, eName=Manish,  empMailId=manishjoshi073@mail.com, yearlySalary=300000.0]
 Employee [empId=102, eName=Anusuya,  empMailId=anusuya123@mail.com, yearlySalary=249996.0]
 ------------------------------------------------------------------------------------------------------
+**Welcome to Employee_Management_System**
+1.INSERT
+2.DISPLAY
+3.SERACH
+4.DELETE
+5.UPDATE
+6.EXIT
+Enter Your Choice : 
+2
+------------------------------------------------------------------------------------------------------
+Employee [empId=101, eName=Manish,  empMailId=manishjoshi07@mail.com, yearlySalary=300000.0]
+Employee [empId=102, eName=Sam,  empMailId=sam123@mail.com, yearlySalary=480000.0]
+------------------------------------------------------------------------------------------------------
 			         **Welcome to Employee_Management_System**
 1.INSERT
 2.DISPLAY
@@ -65,6 +78,20 @@ Enter Employee ID to Search
 101
 ------------------------------------------------------------------------------------------------------
 Employee [empId=101, eName=Manish,  empMailId=manishjoshi073@mail.com, yearlySalary=300000.0]
+------------------------------------------------------------------------------------------------------
+				 **Welcome to Employee_Management_System**
+1.INSERT
+2.DISPLAY
+3.SERACH
+4.DELETE
+5.UPDATE
+6.EXIT
+Enter Your Choice : 
+4
+Enter Employee ID to Delete
+102
+------------------------------------------------------------------------------------------------------
+Record Deleted Successfully.
 ------------------------------------------------------------------------------------------------------
 				 **Welcome to Employee_Management_System**
 1.INSERT
